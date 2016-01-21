@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "colCal",
+    "style": "sass",
+    "postcss": false
+  }
+}
